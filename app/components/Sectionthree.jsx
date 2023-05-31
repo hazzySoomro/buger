@@ -23,7 +23,7 @@ function Sectionthree() {
       <div className="flex justify-center items-center pt-40">
         <Link href="/">
           <div className="">
-            <Image src={burger3}></Image>
+            <Image src={burger3} alt="logo"></Image>
             <h1 className=" justify-center flex font-semibold text-gray-700 text-2xl ">
               Lorem ipsum dolor
             </h1>
@@ -37,7 +37,7 @@ function Sectionthree() {
         </Link>
         <Link href="/">
           <div className="">
-            <Image src={burger3}></Image>
+            <Image src={burger3} alt="logo"></Image>
             <h1 className=" justify-center flex font-semibold text-gray-700 text-2xl ">
               Lorem ipsum dolor
             </h1>
@@ -51,7 +51,7 @@ function Sectionthree() {
         </Link>
         <Link href="/">
           <div className="">
-            <Image src={burger3}></Image>
+            <Image src={burger3} alt="logo"></Image>
             <h1 className=" justify-center flex font-semibold text-gray-700 text-2xl ">
               Lorem ipsum dolor
             </h1>

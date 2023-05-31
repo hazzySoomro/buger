@@ -7,14 +7,14 @@ function Sectiontwo() {
   return (
     <section className="flex justify-between min-h-screen items-center">
       <div className=" items-center justify-center ml-52 relative">
-        <Image src={burger1} className=" "></Image>
+        <Image src={burger1} className=" " alt="logo"></Image>
         <h1 className="font-sm text-white text-2xl absolute top-0 z-[99999] ">
           try it NOW !
         </h1>
       </div>
       <div className="mr-52">
         <div className="relative mb-2 ">
-          <Image src={buger2} className=" "></Image>
+          <Image src={buger2} className=" " alt="logo"></Image>
           <h2 className="font-sm text-white text-xl absolute top-10 ml-4 ">
             try it NOW !
           </h2>
@@ -26,7 +26,7 @@ function Sectiontwo() {
           </h1>
         </div>
         <div className="relative mb-10 ">
-          <Image src={buger2} className=" "></Image>
+          <Image src={buger2} className=" " alt="logo"></Image>
           <h1 className="font-sm text-white text-2xl absolute top-20 ml-4 ">
             try it NOW !
           </h1>

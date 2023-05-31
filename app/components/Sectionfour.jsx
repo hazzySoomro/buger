@@ -15,13 +15,13 @@ function Sectionfour() {
             eiusmod tempor incididunt ut .{' '}
           </p>
           <div className="flex space-x-2 mt-48">
-            <Image src={Ellipse}></Image>
-            <Image src={Ellipse}></Image>
-            <Image src={Ellipse}></Image>
+            <Image src={Ellipse} alt="logo"></Image>
+            <Image src={Ellipse} alt="logo"></Image>
+            <Image src={Ellipse} alt="logo"></Image>
           </div>
         </div>
         <div>
-          <Image src={buger4}></Image>
+          <Image src={buger4} alt="logo"></Image>
         </div>
       </div>
     </section>

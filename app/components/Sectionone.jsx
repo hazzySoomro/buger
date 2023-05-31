@@ -12,7 +12,11 @@ function Sectionone() {
         <h2 className="font-black text-gray-700 text-6xl">WEEK</h2>
       </div>
       <div>
-        <Image src={hero} className="animate-bounce duration-1000"></Image>
+        <Image
+          src={hero}
+          className="animate-bounce duration-1000"
+          alt="logo"
+        ></Image>
       </div>
     </section>
   );

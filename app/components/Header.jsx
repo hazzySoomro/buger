@@ -15,7 +15,7 @@ function Header() {
         </Link>
       </div>
       <div className="flex justify-around">
-        <Image src={bike}></Image>
+        <Image src={bike} alt="logo"></Image>
         <p className="font-medium text-sm">Express Delivery</p>
         <a
           href="tel:+923312444229"
